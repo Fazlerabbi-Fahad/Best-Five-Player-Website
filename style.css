@@ -1,0 +1,43 @@
+body {
+    margin: auto;
+    background-color: #434343;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+.aside-part {
+
+    width: 240px;
+    height: 371px;
+
+}
+
+.aside-part-2 {
+
+    width: 240px;
+    height: 400px;
+
+
+}
+
+.aside-header {
+    width: 130px;
+    height: 33px;
+
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.row {
+    padding-right: 0;
+}
+
+.card {
+
+    border: 1px solid #434343;
+}
+
+.input-field {
+    border: 1px solid #FFFFFF;
+}
