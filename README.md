@@ -1,4 +1,4 @@
-<img src='Fovourite-Players.png'>
+<img src='Favourite-Players.png'>
 This is a responsive, fully-functional re-selling website. I created this whole website using MERN. You can see my live website on: <a href="https://recycle-bin-8fe8b.web.app/">https://recycle-bin-8fe8b.web.app/</a><br>
 -> I have created my website using React JS, Tailwind CSS(DaisyUI), Node JS, Express JS, MongoDB, Firebase<br>
 -> A wonderful and responsive UI.<br>
